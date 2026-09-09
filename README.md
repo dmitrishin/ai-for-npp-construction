@@ -1,2 +1,2 @@
 # ai-for-npp-construction
-Recommendations for implementing AI technologies in nuclear power plant construction processes.
+Recommendations for Implementing Artificial Intelligence Technologies in Nuclear Power Plant Construction Processes
