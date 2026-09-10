@@ -2,11 +2,13 @@ cff-version: 1.2.0
 message: "If you use this work, please cite the original publication."
 
 title: "Recommendations for Implementing Artificial Intelligence Technologies in Nuclear Power Plant Construction Processes"
+
 authors:
   - family-names: "Dmitrishin"
     given-names: "Yuriy"
     website: "https://dmitrishin.github.io/"
 
+doi: "10.5281/zenodo.22683709"
 repository-code: "https://github.com/dmitrishin/ai-for-npp-construction"
 license: "CC-BY-4.0"
 
@@ -17,3 +19,4 @@ preferred-citation:
       given-names: "Yuriy"
   title: "Recommendations for Implementing Artificial Intelligence Technologies in Nuclear Power Plant Construction Processes"
   year: 2026
+  doi: "10.5281/zenodo.22683709"
