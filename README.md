@@ -73,6 +73,8 @@ publication:
 Yuriy Dmitrishin, "Recommendations for Implementing Artificial Intelligence
 Technologies in Nuclear Power Plant Construction Processes", 2026.
 
+DOI: https://doi.org/10.5281/zenodo.22683709
+
 ## License
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
