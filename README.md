@@ -61,8 +61,8 @@ functions.
 
 ## Underlying Models
 
-- [NPP Life-Cycle AI/ML Model](https://github.com/dmitrishin/npp-lifecycle-ai-ml-model)
-- [NPP Probabilistic Optimization](https://github.com/dmitrishin/npp-probabilistic-optimization)
+- [NPP Life-Cycle AI/ML Model (2025)](https://github.com/dmitrishin/npp-lifecycle-ai-ml-model)
+- [NPP Probabilistic Optimization (2018)](https://github.com/dmitrishin/npp-probabilistic-optimization)
 
 ## Citation
 
