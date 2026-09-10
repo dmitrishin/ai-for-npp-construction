@@ -36,24 +36,24 @@ functions.
 
 ## Application Areas
 
-1. Readiness control for key project decisions, including First Concrete
-2. Supply chain and equipment contracting management
-3. Change, configuration, and requirements management
-4. Construction design documentation management
+1. Readiness Assessment for Key Project Decisions (First Concrete)
+2. Supply Chain and Equipment Procurement Management
+3. Change, Configuration, and Requirements Management
+4. Design Documentation Management for Construction
 5. Licensing
-6. Construction site and construction-base readiness and industrialization methods
-7. Transition from construction to commissioning and commissioning management
-8. Critical path management
-9. Risk management and scenario modeling
-10. Cost control, financing, and investment
-11. Series construction and transfer of experience between projects
-12. Localization, import substitution, and external supply constraints
-13. Contract strategy and risk allocation
-14. Integrated planning and schedule management during the main construction period
-15. Finance and investment
-16. Planning of room handover, work fronts, and area-based installation
-17. Lessons learned, standardization, and knowledge libraries
-18. Internal control and project audit
+6. Construction Site and Construction Support Facilities Readiness and Industrialization Methods
+7. Transition from Construction to Commissioning and Commissioning Management
+8. Critical Path Management
+9. Risk Management and Scenario Modeling
+10. Cost Control, Financing, and Investment
+11. Repeat-Unit Construction and Transfer of Experience Between Projects
+12. Localization and Import Substitution
+13. Contract Strategy and Risk Allocation
+14. Integrated Planning and Schedule Management During the Main Construction Phase
+15. Finance and Investment
+16. Planning of Room Handover, Work Fronts, and Area-Based Installation
+17. Lessons Learned, Standardization, and Knowledge Repositories
+18. Internal Control and Project Audit
 
 ## Underlying Models
 
