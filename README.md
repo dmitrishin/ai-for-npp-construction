@@ -55,14 +55,14 @@ functions.
 17. Lessons Learned, Standardization, and Knowledge Repositories
 18. Internal Control and Project Audit
 
+## Paper
+
+[Download the full paper](Dmitrishin_2026_AI_for_NPP_Construction.pdf)
+
 ## Underlying Models
 
 - [NPP Life-Cycle AI/ML Model](https://github.com/dmitrishin/npp-lifecycle-ai-ml-model)
 - [NPP Probabilistic Optimization](https://github.com/dmitrishin/npp-probabilistic-optimization)
-
-## Paper
-
-[Download the full paper](Dmitrishin_2026_AI_for_NPP_Construction.pdf)
 
 ## Citation
 
