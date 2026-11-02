@@ -66,8 +66,8 @@ functions.
 
 ## Articles
 
-[The Earlier an AI-Enabled Project Model Starts, the More Value It Can Create in an NPP Project](https://dmitrishin.github.io/articles/early-ai-enabled-project-model.html)
-[AI in Nuclear Power Plant Construction: From Individual Tools to an Integrated Project Model](https://dmitrishin.github.io/articles/ai-npp-integrated-project-model.html)
+- [The Earlier an AI-Enabled Project Model Starts, the More Value It Can Create in an NPP Project](https://dmitrishin.github.io/articles/early-ai-enabled-project-model.html)
+- [AI in Nuclear Power Plant Construction: From Individual Tools to an Integrated Project Model](https://dmitrishin.github.io/articles/ai-npp-integrated-project-model.html)
 
 ## Citation
 
