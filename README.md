@@ -64,6 +64,10 @@ functions.
 - [NPP Life-Cycle AI/ML Model (2025)](https://github.com/dmitrishin/npp-lifecycle-ai-ml-model)
 - [NPP Probabilistic Optimization (2018)](https://github.com/dmitrishin/npp-probabilistic-optimization)
 
+## Paper
+
+[The Earlier an AI-Enabled Project Model Starts, the More Value It Can Create in an NPP Project](https://dmitrishin.github.io/articles/early-ai-enabled-project-model.html)
+
 ## Citation
 
 If you use this work in research, engineering, project management,
